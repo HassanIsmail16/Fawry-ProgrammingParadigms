@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 unit-testing-2/.idea/
 *.iml
+.idea/
 
 ### Eclipse ###
 .apt_generated
